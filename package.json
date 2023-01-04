@@ -1,0 +1,19 @@
+{
+  "name": "alura-geek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IleanaChamorro/AluraGeek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IleanaChamorro/AluraGeek/issues"
+  },
+  "homepage": "https://github.com/IleanaChamorro/AluraGeek#readme"
+}

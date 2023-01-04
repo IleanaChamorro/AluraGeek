@@ -1,0 +1,13 @@
+{
+    "producto": [
+        {
+            "name": "Alura",
+            "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+            "price": "100.00",
+            "id": 1,
+            "alt": "Product",
+            "section": "Star Wars",
+            "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+        }
+    ]
+  }
